@@ -1,4 +1,4 @@
 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
 
 
-the above is my personal acces token.
+the above is my personal access token.
